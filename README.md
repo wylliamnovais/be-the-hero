@@ -1,8 +1,7 @@
 # BeTheHero
 
-##Português
-Aplicativo BeTheHero, plataforma de auxilio para ONGs, onde ajuda a ser descoberto por  Financiadores (Heróis).
-
+## Português
+>Aplicativo **BeTheHero**, plataforma de auxilio para **ONGs**, onde ajuda a ser descoberto por  **Financiadores** (Heróis).
 Tecnologias usadas para desenvolvimento:
 - React
 - ReactNative
@@ -11,10 +10,9 @@ Tecnologias usadas para desenvolvimento:
 - SQLite
 
 
-##English
-BeTheHero application, support platform for NGOs, where it helps to be discovered by Financiers (Heroes).
-
-- Technologies used for development:
+## English
+>**BeTheHero** application, support platform for **NGOs**, where it helps to be discovered by **Financiers** (Heroes).
+Technologies used for development:
 - React
 - ReactNative
 - Node
