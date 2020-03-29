@@ -1,5 +1,6 @@
 # BeTheHero
-https://travis-ci.org/wylliamnovais/be-the-hero.svg?branch=master
+![Travis](https://travis-ci.org/wylliamnovais/be-the-hero.svg?branch=master)
+
 
 ## Português
 >Aplicativo **BeTheHero**, plataforma de auxilio para **ONGs**, onde ajuda a ser descoberto por  **Financiadores** (Heróis).
